@@ -43,6 +43,8 @@
     font-style:normal;
     font-display:swap}
 
+
+
 .w-layout-grid{
     display:-ms-grid;
     display:grid;
@@ -136,6 +138,10 @@ p{
     font-size:1.25em;
     line-height:1.2em;
     font-weight:500}
+
+.bg3{
+    background-image:url(../images/bg1.webp)
+}
 
 .navbar{
 
@@ -379,7 +385,7 @@ padding-bottom:1em;
 -webkit-align-items:center;
 -ms-flex-align:center;
 align-items:center;
-background-image:url(../images/bg-hero-home.webp);
+background-image:url(../images/2800_x_1880_moved_up-_Little_more.gif);
 background-position:50% 50%;
 background-size:cover}
 .nav-menu-wrapper.dark{
@@ -395,7 +401,7 @@ padding-bottom:3.25em;
 -ms-flex-align:end;
 align-items:flex-end;
 background-color:rgba(0,0,0,.8);
-background-image:url(../images/bg-hero-home.webp);
+background-image:url(../images/2800_x_1880_moved_up-_Little_more.gif);
 background-position:50% 50%;
 background-size:cover}
 .btn-text{
@@ -477,7 +483,7 @@ flex-direction:column;
 -webkit-justify-content:center;
 -ms-flex-pack:center;
 justify-content:center;
-background-image:url(../images/hm.jpg);
+background-image:url(../images/2800_x_1880_moved_up-_Little_more.gif);
 background-position:50% 0%;
 background-size:cover}
 .header.section{
