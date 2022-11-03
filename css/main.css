@@ -381,7 +381,7 @@ padding-bottom:1em;
 -webkit-align-items:center;
 -ms-flex-align:center;
 align-items:center;
-background-image:url(../images/vids/music\ notes\ gif\ cont\ loop.gif);
+background-image:url(../images/2800_x_1880_moved_up-_Little_more.gif);
 background-position:50% 50%;
 background-size:cover}
 .nav-menu-wrapper.dark{
@@ -397,7 +397,8 @@ padding-bottom:3.25em;
 -ms-flex-align:end;
 align-items:flex-end;
 background-color:rgba(0,0,0,.8);
-background-image:url(../images/vids/music\ notes\ gif\ cont\ loop.gif);
+/* background-image:url(../images/bgwave.png); */
+background-image:url(../images/2800_x_1880_moved_up-_Little_more.gif);
 background-position:50% 50%;
 background-size:cover}
 .btn-text{
@@ -479,7 +480,8 @@ flex-direction:column;
 -webkit-justify-content:center;
 -ms-flex-pack:center;
 justify-content:center;
-background-image:url(../images/vids/music\ notes\ gif\ cont\ loop.gif);
+background-image:url(../images/bgwave.png);
+background-image:url(../images/2800_x_1880_moved_up-_Little_more.gif);
 background-position:50% 0%;
 background-size:cover}
 .header.section{
